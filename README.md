@@ -1,3 +1,3 @@
 # Project Title
 
-my first school Project as a software engineer at Holberton
+My first school Project as a software engineer at Holberton
